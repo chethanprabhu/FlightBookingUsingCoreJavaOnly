@@ -1,0 +1,1 @@
+This is a simple Flight Booking Application. This is implemented using Core java only. No frameworks,database or servers are used. For any querries or suggestion mail me at chethanprabhu65@gmail.com. Cheers
